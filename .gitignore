@@ -5,3 +5,5 @@ UserSettings
 Logs
 optimization.sln
 .idea
+obj
+.utmp
