@@ -15,7 +15,7 @@ AudioImporter:
   platformSettingOverrides:
     Android:
       serializedVersion: 2
-      loadType: 2
+      loadType: 0
       sampleRateSetting: 2
       sampleRateOverride: 22050
       compressionFormat: 1
